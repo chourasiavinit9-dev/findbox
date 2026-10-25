@@ -1,0 +1,39 @@
+services:
+  findbox:
+    build: .
+    container_name: findbox
+    ports:
+      - "8765:8765"
+    volumes:
+      # Mount your messy folders here — add as many as you need:
+      - ~/Downloads:/inbox/Downloads
+      - ~/Desktop:/inbox/Desktop
+      - ~/Documents:/inbox/Documents
+      # SlothBox output (sorted files + DB) persists here:
+      - ~/SlothBox:/home/sloth/SlothBox
+    environment:
+      # Point to Ollama on your host machine:
+      OLLAMA_HOST: http://host.docker.internal:11434
+      SLOTHBOX_INBOX: /inbox
+    # On Linux, use host networking so host.docker.internal resolves:
+    # network_mode: host
+    restart: unless-stopped
+
+  # ── Optional: run Ollama inside the stack ─────────────────────
+  # ollama:
+  #   image: ollama/ollama:latest
+  #   volumes:
+  #     - ollama_data:/root/.ollama
+  #   ports:
+  #     - "11434:11434"
+  #   # Uncomment if you have an NVIDIA GPU:
+  #   # deploy:
+  #   #   resources:
+  #   #     reservations:
+  #   #       devices:
+  #   #         - driver: nvidia
+  #   #           count: 1
+  #   #           capabilities: [gpu]
+
+# volumes:
+#   ollama_data:
