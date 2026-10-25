@@ -1,0 +1,9 @@
+[2026-10-03, 10:14:22] Rahul (Landlord): Hey Vinit, hope you're doing well. Regarding the 2BHK flat in Koramangala.
+[2026-10-03, 10:15:05] Vinit: Hi Rahul! Yes, we loved the place during the visit. We want to finalize it.
+[2026-10-03, 10:17:40] Rahul (Landlord): Sounds great. Monthly rent will be ₹32,000 including maintenance. Security deposit is 2 months rent = ₹64,000.
+[2026-10-03, 10:19:12] Vinit: Got it. Can I transfer a booking token advance of ₹10,000 right now via UPI?
+[2026-10-03, 10:20:01] Rahul (Landlord): Yes, token advance of ₹10,000 is fine. Remaining security deposit ₹54,000 before handover on Nov 1st.
+[2026-10-03, 10:22:45] Vinit: Transferred ₹10,000. UTR: 628194018239.
+[2026-10-03, 10:25:30] Rahul (Landlord): Received ₹10,000! Token confirmed.
+[2026-10-03, 10:26:10] Rahul (Landlord): Please send documents by Friday (Aadhaar copy and employment verification letter) so I can prepare the rental agreement.
+[2026-10-03, 10:27:00] Vinit: Perfect, I will send documents by Friday for sure. Thanks Rahul!

@@ -1,0 +1,27 @@
+WEST BENGAL STATE ELECTRICITY DISTRIBUTION COMPANY LIMITED (WBSEDCL)
+ELECTRICITY INVOICE / CONSUMER BILL
+-----------------------------------------------------------------------------
+Consumer ID: 104829103
+Billing Month: October 2026
+Bill Date: 2026-10-12
+Due Date: 2026-10-28
+Tariff Category: Domestic Urban (A-Dom)
+
+Meter Reading:
+  Previous: 14,210 kWh
+  Present:  14,580 kWh
+  Units Consumed: 370 kWh
+
+Charges Breakdown:
+  Energy Charges:          ₹ 2,120.00
+  Fixed Demand Charges:    ₹   180.00
+  Fuel Surcharge (FPPCA):  ₹   145.50
+  Electricity Duty:        ₹   110.00
+  -----------------------------------
+  Gross Total Amount Due:  ₹ 2,555.50
+  Rebate if paid before 2026-10-20: ₹ 50.00
+
+PAYMENT ACTION REQUIRED:
+Please pay bill by 2026-10-28 to avoid late surcharge and disconnection.
+Payment can be made via WBSEDCL Portal, UPI, or Netbanking.
+-----------------------------------------------------------------------------

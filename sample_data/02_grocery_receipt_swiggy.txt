@@ -1,0 +1,23 @@
+SWIGGY INSTAMART - ORDER RECEIPT
+Order #SW-982144710
+Date: 2026-10-14 19:42:10 IST
+Store: Indiranagar DarkStore 4
+
+ITEMS DELIVERED:
+1. Amul Taaza Fresh Toned Milk (1L x 2)     ₹ 110.00
+2. Fresh Malai Paneer (200g)               ₹  95.00
+3. Farm Fresh Tomatoes (1kg)               ₹  42.00
+4. Kissan Fresh Tomato Ketchup (950g)      ₹ 130.00
+5. Organic Brown Eggs (6 pack)             ₹  78.00
+6. Dark Fantasy Choco Fills (300g)         ₹ 120.00
+---------------------------------------------------
+Item Subtotal:                             ₹ 575.00
+Delivery Fee:                              ₹  25.00
+Handling Fee:                              ₹   5.00
+Taxes (GST @ 5%):                          ₹  18.75
+Discounts (INSTA50 Coupon):              - ₹  50.00
+---------------------------------------------------
+Total Paid (via UPI / GPay):               ₹ 573.75
+
+Thank you for shopping on Swiggy Instamart!
+For order issues, chat with customer support within 48 hours.

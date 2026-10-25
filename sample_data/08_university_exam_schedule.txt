@@ -1,0 +1,23 @@
+DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING
+MIDTERM EXAM SCHEDULE & STUDY SYLLABUS - AUTUMN 2026
+Issue Date: 2026-09-25
+
+EXAM DATES & TIME SLOTS:
+1. CS401: Distributed Systems & Consensus
+   Date: 2026-11-04 (10:00 AM - 12:00 PM)
+   Room: Hall B, Tech Building
+   Topics: Raft, Paxos, Vector Clocks, Byzantine Fault Tolerance
+
+2. CS408: Machine Learning on Edge & Quantization
+   Date: 2026-11-07 (02:00 PM - 04:00 PM)
+   Room: Hall C, ML Lab
+   Topics: Transformer architecture, Gemma open weights, INT4 quantization, KV cache
+
+3. CS415: Database Internals & FTS
+   Date: 2026-11-10 (10:00 AM - 12:00 PM)
+   Room: Hall A
+   Topics: B-Trees, LSM trees, inverted index, SQLite BM25 ranking
+
+IMPORTANT REMINDER:
+Submit course lab assignment 2 via university portal before 2026-10-29.
+Late submissions will incur a 20% grade deduction.

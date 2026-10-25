@@ -1,0 +1,23 @@
+INDIGO ELECTRONIC TICKET & BOARDING PASS
+Booking Reference (PNR): 6E-KJ892F
+Date of Issue: 2026-09-18
+Passenger: Vinit Chaurasia
+
+FLIGHT DETAILS:
+Flight: 6E 2134 (Airbus A321neo)
+Date: 2026-10-30
+Departure: New Delhi (DEL) - Terminal 3 at 08:45 IST
+Arrival: Bengaluru (BLR) - Terminal 1 at 11:35 IST
+Duration: 2 hrs 50 mins
+
+Baggage & Seating:
+Seat: 14D (Aisle, Standard Legroom)
+Cabin Baggage: 7 kg
+Check-in Baggage: 15 kg
+
+IMPORTANT TRAVEL INSTRUCTIONS:
+- Web check-in opens 48 hours prior to departure.
+- Please report to Gate 42 at least 45 minutes before departure.
+- Gate closes 25 minutes prior to scheduled takeoff.
+- Carry valid Govt photo ID (Aadhaar / Passport / Voter ID).
+Total Fare: ₹ 5,840.00 (Paid via Credit Card)
